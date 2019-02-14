@@ -16,7 +16,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "latest"
+    "node": "^11.2.0"
   },
   "main": "./node_scripts/index.js",
   "keywords": [
